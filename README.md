@@ -251,10 +251,9 @@ They consist of 3 parts:
 ### Create Collider Groups
 
 1. Expand **Spring Bone Collider Groups**.
-2. Click **+**** (to the right)** to create a new group (for example, `Head_Colliders`).
-
+2. Click **+**** (to the right)** to create a new group (for example, `Head_Colliders`).<br>
    ![](Images/EN/V0aSbBdZzo35QFxDX4Qc9c9tnNb.png)
-3. Assign the colliders you just created to this group.
+3. Assign the colliders you just created to this group.<br>
    ![](Images/EN/LXWIb0M23oIDbaxlujRcV94pnSf.png)
 
 ### Set Springs
@@ -263,20 +262,18 @@ They consist of 3 parts:
 2. Adjust parameters:
    - **Stiffness**: Higher values make hair “harder” and reduce movement.
    - **Gravity**: Determines how much hair droops due to gravity.
-   - **Drag Force**: Higher values make movement stop faster (like moving through water).
+   - **Drag Force**: Higher values make movement stop faster (like moving through water).<br>
      ![](Images/EN/IugMbkMHyoWwQ3xU2lbcvEhwnmf.png)
 
 ### Assign Joints
 
 - In the **Joints** list, add the bone chain of your ponytail from root to tip.
   **Tip:** If your bone chain is properly named, the plugin will automatically match the next bones after adding the first one.
-
 ![](Images/EN/WJ0Jbn7F5ofuKmxen5pc0K8cnMb.png)
 
 ### Link Collider Groups
 
 - In the **Collider Groups** list, add the `Head_Colliders` group you just created.
-
 ![](Images/EN/VSzKbLIytoAlIkxvvGuc2rCunFb.png)
 
 ---

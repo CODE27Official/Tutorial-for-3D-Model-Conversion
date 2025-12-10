@@ -251,9 +251,9 @@ VRMの表情はBlenderの**シェイプキー**を使用します。（そのた
 ### コライダーグループの作成
 
 1. **Spring Bone Collider Groups**を展開
-2. **+**（右側）をクリックして新しいグループを作成（例：`Head_Colliders`）
+2. **+**（右側）をクリックして新しいグループを作成（例：`Head_Colliders`）<br>
    ![](Images/EN/V0aSbBdZzo35QFxDX4Qc9c9tnNb.png)
-3. 作成したコライダーをこのグループに割り当て
+3. 作成したコライダーをこのグループに割り当て<br>
    ![](Images/EN/LXWIb0M23oIDbaxlujRcV94pnSf.png)
 
 ### スプリングの設定
@@ -262,20 +262,18 @@ VRMの表情はBlenderの**シェイプキー**を使用します。（そのた
 2. パラメータを調整：
    - **Stiffness**：値が高いほど髪が「硬く」なり、動きが減少
    - **Gravity**：重力によって髪がどれだけ垂れ下がるかを決定
-   - **Drag Force**：値が高いほど動きが早く止まる（水中を移動するような感じ）
+   - **Drag Force**：値が高いほど動きが早く止まる（水中を移動するような感じ）<br>
      ![](Images/EN/IugMbkMHyoWwQ3xU2lbcvEhwnmf.png)
 
 ### ジョイントの割り当て
 
 - **Joints**リストで、ポニーテールのボーンチェーンを根元から先端まで追加
   **ヒント：** ボーンチェーンが適切に命名されている場合、プラグインは最初のボーンを追加した後、次のボーンを自動的にマッチングします
-
 ![](Images/EN/WJ0Jbn7F5ofuKmxen5pc0K8cnMb.png)
 
 ### コライダーグループのリンク
 
 - **Collider Groups**リストで、作成した`Head_Colliders`グループを追加
-
 ![](Images/EN/VSzKbLIytoAlIkxvvGuc2rCunFb.png)
 
 ---
