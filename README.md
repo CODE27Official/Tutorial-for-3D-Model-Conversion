@@ -119,13 +119,17 @@ VRM requires a standard "T-Pose" (arms straight out, palms down).
 
 1. Select your skeleton, enter Pose Mode, switch to front orthographic view
 
-![](Images/EN/K5VbbZi5eoLjrsxQLw7cRqI1nNK.png)
-![](Images/EN/IGnjbavYxopJx0xIvioc0Bfinaf.png)
+<p align="center">
+  <img src="Images/EN/K5VbbZi5eoLjrsxQLw7cRqI1nNK.png" width="45%" />
+  <img src="Images/EN/IGnjbavYxopJx0xIvioc0Bfinaf.png" width="45%" />
+</p>
 
-1. Rotate shoulders and clavicles to achieve a perfect T-Pose
+2. Rotate shoulders and clavicles to achieve a perfect T-Pose
 
-![](Images/EN/IMaVb3B73o7WSIxQqdbcPJganrg.png)
-![](Images/EN/SyupbzhLIoIbjxxtRoPcroRBnqc.png)
+<p align="center">
+  <img src="Images/EN/IMaVb3B73o7WSIxQqdbcPJganrg.png" width="45%" />
+  <img src="Images/EN/SyupbzhLIoIbjxxtRoPcroRBnqc.png" width="45%" />
+</p>
 
 **Advanced Tip:** Use Blender’s symmetry to adjust both sides at once.
 
@@ -165,7 +169,7 @@ Key options:
 
 ### **Add Outline (Optional)**
 
-In **Outline**, set mode to **World Coordinates**, adjust **Outline Width** and **Outline Color**.
+In **Outline**, set mode to **World Coordinates**, adjust **Outline Width** and **Outline Color**.<br>
 
 ![](Images/EN/LSSabR8qUo2mlexxamecVLzWn7c.png)
 
@@ -217,7 +221,7 @@ Slide **Value** to see the blink effect.
 3. In **Morph Target Binds**, select the mesh and corresponding shape key
 4. Set **Weight** = 1.0
 
-Repeat for all expressions.
+Repeat for all expressions.<br>
 
 ![](Images/EN/Xj5FbtgVPoLsfBxbMCPcZhfnnqg.png)
 
@@ -239,13 +243,13 @@ They consist of 3 parts:
 1. In the **N** sidebar, go to the **VRM** tab and expand the  **Spring Bone** panel.
 
    1. "If you don't see the N sidebar (sometimes referred to as the N menu), move your mouse to the 3D viewport, and press "N" on your keyboard, and a sidebar will appear to the right.
-2. Expand **Spring Bone Colliders**, click **+** to add a new collider (for example, a **Sphere**).
+2. Expand **Spring Bone Colliders**, click **+** to add a new collider (for example, a **Sphere**).<br>
    ![](Images/EN/WfiubSDIvofCZrxHYAMc5SUInZd.png)
-3. Select the skeleton, switch to **Pose Mode**, and use the snapping tool to bind the collider to the corresponding bone.
+3. Select the skeleton, switch to **Pose Mode**, and use the snapping tool to bind the collider to the corresponding bone.<br>
    ![](Images/EN/KtMUb9r5goQeh5xc1TjcTdaUn6b.png)
-4. Switch back to **Object Mode** and move the collider to the correct position (e.g., the center of the head).
+4. Switch back to **Object Mode** and move the collider to the correct position (e.g., the center of the head).<br>
    ![](Images/EN/BsjJbieExo1HZ4xWkAbcfnNTnxc.png)
-5. Repeat these steps to ensure all parts of your character have colliders.
+5. Repeat these steps to ensure all parts of your character have colliders.<br>
    ![](Images/EN/QgWTbCsDOoH6TVxEMOtcHgJDnob.png)
 
 ### Create Collider Groups

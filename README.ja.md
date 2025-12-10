@@ -119,13 +119,17 @@ VRMは標準的な「Tポーズ」（腕をまっすぐ伸ばし、手のひら�
 
 1. スケルトンを選択し、ポーズモードに入り、正面の正投影ビューに切り替え
 
-![](Images/EN/K5VbbZi5eoLjrsxQLw7cRqI1nNK.png)
-![](Images/EN/IGnjbavYxopJx0xIvioc0Bfinaf.png)
+<p align="center">
+  <img src="Images/EN/K5VbbZi5eoLjrsxQLw7cRqI1nNK.png" width="45%" />
+  <img src="Images/EN/IGnjbavYxopJx0xIvioc0Bfinaf.png" width="45%" />
+</p>
 
-1. 肩と鎖骨を回転させて完璧なTポーズを実現
+2. 肩と鎖骨を回転させて完璧なTポーズを実現
 
-![](Images/EN/IMaVb3B73o7WSIxQqdbcPJganrg.png)
-![](Images/EN/SyupbzhLIoIbjxxtRoPcroRBnqc.png)
+<p align="center">
+  <img src="Images/EN/IMaVb3B73o7WSIxQqdbcPJganrg.png" width="45%" />
+  <img src="Images/EN/SyupbzhLIoIbjxxtRoPcroRBnqc.png" width="45%" />
+</p>
 
 **上級者向けヒント：** Blenderの対称機能を使用して両側を一度に調整します。
 
