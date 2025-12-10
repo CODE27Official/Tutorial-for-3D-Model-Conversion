@@ -106,10 +106,10 @@ If your model already has a skeleton, you need to tell the VRM plugin which bone
 1. Switch to **Pose Mode** and press **A**** (on your keyboard)** to select your existing skeleton.
 2. Press **N**** (on your keyboard)** to open the sidebar, click the **VRM** tab, and expand the **Humanoid** panel.
 3. You will see a list showing bones such as **Hips** (pelvis), **Spine** (spinal column), etc.
-4. First, you can try clicking **Automatic Bone Assignment** to check if the plugin can automatically match the corresponding bones.
+4. First, you can try clicking **Automatic Bone Assignment** to check if the plugin can automatically match the corresponding bones.<br>
    ![](Images/EN/CRhBbnFUHoIiaaxrGjbcmsxPnth.png)
 5. If you want to assign manually, click each slot and select the corresponding bone from your skeleton in the dropdown menu (for example, assign your `My_Waist_Bone` to **Hips**).
-6. Click **Check VRM Model** to ensure that all required bones are correctly assigned.
+6. Click **Check VRM Model** to ensure that all required bones are correctly assigned.<br>
 
 ![](Images/EN/LcPMbA7Gno7R6pxrmiOcr652nYf.png)
 
