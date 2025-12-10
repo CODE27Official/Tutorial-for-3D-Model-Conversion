@@ -139,10 +139,10 @@ If symmetry fails, tweak coordinates manually.
 
 ![](Images/EN/GH81bQHNgodsWsxI9wvcJ5LPnjb.jpg)
 
-> (On-screen directions)
-> ⚠️ **Super Important:** Complete the T-Pose **before** creating expressions.
-> Otherwise, expressions may break your model’s arms or body after export.
-> **Correct order:** 1. Set T-Pose → 2. Create expressions
+>
+> ⚠️ **Important:** Complete the T-Pose **before** creating expressions.<br>
+> Otherwise, expressions may break your model’s arms or body after export.<br>
+> **Correct order:** 1. Set T-Pose → 2. Create expressions<br>
 > **Wrong order:** 1. Create expressions → 2. Set T-Pose (may damage model!)
 
 ---
@@ -252,6 +252,7 @@ They consist of 3 parts:
 
 1. Expand **Spring Bone Collider Groups**.
 2. Click **+**** (to the right)** to create a new group (for example, `Head_Colliders`).
+
    ![](Images/EN/V0aSbBdZzo35QFxDX4Qc9c9tnNb.png)
 3. Assign the colliders you just created to this group.
    ![](Images/EN/LXWIb0M23oIDbaxlujRcV94pnSf.png)
