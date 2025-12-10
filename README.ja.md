@@ -268,12 +268,12 @@ VRMの表情はBlenderの**シェイプキー**を使用します。（そのた
 ### ジョイントの割り当て
 
 - **Joints**リストで、ポニーテールのボーンチェーンを根元から先端まで追加
-  **ヒント：** ボーンチェーンが適切に命名されている場合、プラグインは最初のボーンを追加した後、次のボーンを自動的にマッチングします
+  **ヒント：** ボーンチェーンが適切に命名されている場合、プラグインは最初のボーンを追加した後、次のボーンを自動的にマッチングします<br>
 ![](Images/EN/WJ0Jbn7F5ofuKmxen5pc0K8cnMb.png)
 
 ### コライダーグループのリンク
 
-- **Collider Groups**リストで、作成した`Head_Colliders`グループを追加
+- **Collider Groups**リストで、作成した`Head_Colliders`グループを追加<br>
 ![](Images/EN/VSzKbLIytoAlIkxvvGuc2rCunFb.png)
 
 ---

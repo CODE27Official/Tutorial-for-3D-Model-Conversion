@@ -268,12 +268,12 @@ They consist of 3 parts:
 ### Assign Joints
 
 - In the **Joints** list, add the bone chain of your ponytail from root to tip.
-  **Tip:** If your bone chain is properly named, the plugin will automatically match the next bones after adding the first one.
+  **Tip:** If your bone chain is properly named, the plugin will automatically match the next bones after adding the first one.<br>
 ![](Images/EN/WJ0Jbn7F5ofuKmxen5pc0K8cnMb.png)
 
 ### Link Collider Groups
 
-- In the **Collider Groups** list, add the `Head_Colliders` group you just created.
+- In the **Collider Groups** list, add the `Head_Colliders` group you just created.<br>
 ![](Images/EN/VSzKbLIytoAlIkxvvGuc2rCunFb.png)
 
 ---
